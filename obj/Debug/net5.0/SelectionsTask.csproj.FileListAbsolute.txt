@@ -1,0 +1,16 @@
+C:\Users\Daniel\SelectionsTask\bin\Debug\net5.0\SelectionsTask.exe
+C:\Users\Daniel\SelectionsTask\bin\Debug\net5.0\SelectionsTask.deps.json
+C:\Users\Daniel\SelectionsTask\bin\Debug\net5.0\SelectionsTask.runtimeconfig.json
+C:\Users\Daniel\SelectionsTask\bin\Debug\net5.0\SelectionsTask.runtimeconfig.dev.json
+C:\Users\Daniel\SelectionsTask\bin\Debug\net5.0\SelectionsTask.dll
+C:\Users\Daniel\SelectionsTask\bin\Debug\net5.0\ref\SelectionsTask.dll
+C:\Users\Daniel\SelectionsTask\bin\Debug\net5.0\SelectionsTask.pdb
+C:\Users\Daniel\SelectionsTask\obj\Debug\net5.0\SelectionsTask.csprojAssemblyReference.cache
+C:\Users\Daniel\SelectionsTask\obj\Debug\net5.0\SelectionsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\SelectionsTask\obj\Debug\net5.0\SelectionsTask.AssemblyInfoInputs.cache
+C:\Users\Daniel\SelectionsTask\obj\Debug\net5.0\SelectionsTask.AssemblyInfo.cs
+C:\Users\Daniel\SelectionsTask\obj\Debug\net5.0\SelectionsTask.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\SelectionsTask\obj\Debug\net5.0\SelectionsTask.dll
+C:\Users\Daniel\SelectionsTask\obj\Debug\net5.0\ref\SelectionsTask.dll
+C:\Users\Daniel\SelectionsTask\obj\Debug\net5.0\SelectionsTask.pdb
+C:\Users\Daniel\SelectionsTask\obj\Debug\net5.0\SelectionsTask.genruntimeconfig.cache
